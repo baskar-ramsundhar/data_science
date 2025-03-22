@@ -1,4 +1,4 @@
-**Contents**
+***Contents***
 
 - Developing commercial awareness through statistical thinking
     - Analysing and defining a business problem
